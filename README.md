@@ -144,9 +144,3 @@ int main(void)
     return (0);
 }
 ```
-
----
-
-## Author
-
-Developed as part of the 42 School curriculum.
