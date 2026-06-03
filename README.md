@@ -111,7 +111,7 @@ Recompile everything:
 make re
 ```
 
-Compile the bonus part (if implemented):
+Compile the bonus part:
 
 ```bash
 make bonus
